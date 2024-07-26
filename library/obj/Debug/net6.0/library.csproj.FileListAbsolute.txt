@@ -1,0 +1,28 @@
+D:\advanced progamming\library\library\bin\Debug\net6.0\library.exe
+D:\advanced progamming\library\library\bin\Debug\net6.0\library.deps.json
+D:\advanced progamming\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+D:\advanced progamming\library\library\bin\Debug\net6.0\library.dll
+D:\advanced progamming\library\library\bin\Debug\net6.0\library.pdb
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.dll
+D:\advanced progamming\library\library\obj\Debug\net6.0\refint\library.dll
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.pdb
+D:\advanced progamming\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+D:\advanced progamming\library\library\obj\Debug\net6.0\ref\library.dll
+D:\advanced progamming\asss\group 5\library\library\bin\Debug\net6.0\library.exe
+D:\advanced progamming\asss\group 5\library\library\bin\Debug\net6.0\library.deps.json
+D:\advanced progamming\asss\group 5\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+D:\advanced progamming\asss\group 5\library\library\bin\Debug\net6.0\library.dll
+D:\advanced progamming\asss\group 5\library\library\bin\Debug\net6.0\library.pdb
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.dll
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\refint\library.dll
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.pdb
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+D:\advanced progamming\asss\group 5\library\library\obj\Debug\net6.0\ref\library.dll

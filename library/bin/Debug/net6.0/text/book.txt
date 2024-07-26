@@ -1,0 +1,10 @@
+1,Fundamental physics,16
+2,Basic Progamming,5
+3,Database,3
+4,Advance progamming,16
+5,Flim aesthetic,18
+6,Networking & security,3
+7,Organizational Behaviour,0
+8,Mathematics,6
+9,Economics,6
+10,Introdduction to Chemistry,4
